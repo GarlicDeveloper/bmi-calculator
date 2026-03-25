@@ -30,4 +30,4 @@ A simple and responsive **BMI (Body Mass Index) Calculator** built using HTML, C
 ##  How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/GarlicDeveloper/bmi-calculator.git
